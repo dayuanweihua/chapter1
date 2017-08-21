@@ -27,7 +27,7 @@ public class HelloServlet extends HttpServlet {
         req.getRequestDispatcher("/WEB-INF/jsp/hello.jsp").forward(req,resp);
 
 
-        System.out.println("hello");
+        System.out.println("heldo");
     }
 
 }
